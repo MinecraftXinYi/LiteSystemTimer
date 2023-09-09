@@ -1,5 +1,4 @@
-# Lite System Timer
-## C# Lite System Timer Library<br>
+## Lite System Timer Library (C#)
 A simple .NET ClassLibrary (C#) of System Timer.<br>
 Version: 1.1<br>
 .NET Version: .NET Standard 2.1<br>
